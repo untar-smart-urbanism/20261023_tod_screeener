@@ -1,0 +1,461 @@
+{
+ "type": "FeatureCollection",
+ "name": "properties_synthetic",
+ "metadata": {
+  "description": "SYNTHETIC sample listings for teaching. Not real properties, prices or owners.",
+  "crs": "EPSG:4326",
+  "price_status": "asking price (illustrative)"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P001",
+    "type": "shophouse",
+    "floor_area_m2": 120,
+    "asking_price_idr": 3480000000,
+    "listing_date": "2026-03-13",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.827183,
+     -6.22325
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P002",
+    "type": "apartment",
+    "floor_area_m2": 60,
+    "asking_price_idr": 2460000000,
+    "listing_date": "2026-01-12",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.828301,
+     -6.197235
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P003",
+    "type": "mixed-use",
+    "floor_area_m2": 45,
+    "asking_price_idr": 1170000000,
+    "listing_date": "2026-07-17",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.814559,
+     -6.208839
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P004",
+    "type": "landed house",
+    "floor_area_m2": 45,
+    "asking_price_idr": 1080000000,
+    "listing_date": "2026-06-18",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.821476,
+     -6.215654
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P005",
+    "type": "apartment",
+    "floor_area_m2": 150,
+    "asking_price_idr": null,
+    "listing_date": "2026-07-13",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.812664,
+     -6.195284
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P006",
+    "type": "landed house",
+    "floor_area_m2": 120,
+    "asking_price_idr": 1920000000,
+    "listing_date": "2026-09-13",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.818769,
+     -6.213681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P007",
+    "type": "mixed-use",
+    "floor_area_m2": 320,
+    "asking_price_idr": 10240000000,
+    "listing_date": "2026-06-28",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.837193,
+     -6.212644
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P008",
+    "type": "apartment",
+    "floor_area_m2": 90,
+    "asking_price_idr": 2880000000,
+    "listing_date": "2026-04-13",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.813769,
+     -6.221913
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P009",
+    "type": "office",
+    "floor_area_m2": 150,
+    "asking_price_idr": 3600000000,
+    "listing_date": "2026-06-16",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.819404,
+     -6.210398
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P010",
+    "type": "mixed-use",
+    "floor_area_m2": 60,
+    "asking_price_idr": 1440000000,
+    "listing_date": "2026-04-15",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.828105,
+     -6.202945
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P011",
+    "type": "office",
+    "floor_area_m2": 320,
+    "asking_price_idr": 8960000000,
+    "listing_date": "2026-01-17",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.821868,
+     -6.215902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P012",
+    "type": "apartment",
+    "floor_area_m2": 200,
+    "asking_price_idr": 6200000000,
+    "listing_date": "2026-04-28",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.832654,
+     -6.199849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P013",
+    "type": "landed house",
+    "floor_area_m2": 250,
+    "asking_price_idr": 9750000000,
+    "listing_date": "2026-03-18",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.834291,
+     -6.21456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P014",
+    "type": "mixed-use",
+    "floor_area_m2": 320,
+    "asking_price_idr": null,
+    "listing_date": "2026-07-28",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.812189,
+     -6.20165
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P015",
+    "type": "landed house",
+    "floor_area_m2": 72,
+    "asking_price_idr": 3312000000,
+    "listing_date": "2026-02-11",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.819982,
+     -6.21742
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P016",
+    "type": "mixed-use",
+    "floor_area_m2": 72,
+    "asking_price_idr": 2952000000,
+    "listing_date": "2026-02-22",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.833833,
+     -6.219415
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P017",
+    "type": "mixed-use",
+    "floor_area_m2": 320,
+    "asking_price_idr": 9600000000,
+    "listing_date": "2026-01-13",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.819449,
+     -6.194116
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P018",
+    "type": "apartment",
+    "floor_area_m2": 120,
+    "asking_price_idr": 4200000000,
+    "listing_date": "2026-05-23",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.828451,
+     -6.207891
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P019",
+    "type": "shophouse",
+    "floor_area_m2": 120,
+    "asking_price_idr": 5520000000,
+    "listing_date": "2026-09-13",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.812745,
+     -6.223903
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P020",
+    "type": "shophouse",
+    "floor_area_m2": 320,
+    "asking_price_idr": 8320000000,
+    "listing_date": "2026-06-15",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.834116,
+     -6.215047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P021",
+    "type": "mixed-use",
+    "floor_area_m2": 320,
+    "asking_price_idr": 4480000000,
+    "listing_date": "2026-06-25",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.824181,
+     -6.200641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P022",
+    "type": "apartment",
+    "floor_area_m2": 120,
+    "asking_price_idr": null,
+    "listing_date": "2026-04-28",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.808584,
+     -6.196127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P023",
+    "type": "mixed-use",
+    "floor_area_m2": 250,
+    "asking_price_idr": 4500000000,
+    "listing_date": "2026-03-14",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.836408,
+     -6.22143
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P024",
+    "type": "mixed-use",
+    "floor_area_m2": 72,
+    "asking_price_idr": 2160000000,
+    "listing_date": "2026-07-16",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.827793,
+     -6.195595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P025",
+    "type": "landed house",
+    "floor_area_m2": 90,
+    "asking_price_idr": 2970000000,
+    "listing_date": "2026-06-24",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.835867,
+     -6.201342
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+# secrets
+.env
+.env.local
+.env.*.local
+
+# dependencies & builds
+node_modules/
+.venv/
+venv/
+dist/
+__pycache__/
+
+# large or sensitive data
+data/raw/*
+!data/raw/README.md
+*.tif
+*.tiff
+*.gpkg
+*.zip
+
+# API response cache (may hold licensed data)
+data/cache/*
+!data/cache/README.md
+
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+*.log

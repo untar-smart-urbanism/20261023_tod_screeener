@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "name": "stations_synthetic",
+ "metadata": {
+  "description": "SYNTHETIC station points for teaching.",
+  "crs": "EPSG:4326"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "S1",
+    "name": "Station A",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.8155,
+     -6.2105
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "S2",
+    "name": "Station B",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.827,
+     -6.201
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "S3",
+    "name": "Station C",
+    "source": "synthetic"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.83,
+     -6.218
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "tod-screener",
+  "private": true,
+  "version": "0.3.0",
+  "type": "module",
+  "description": "TOD Opportunity Screener: Smart Urbanism Vibe Coding, Meeting 3 verified analysis",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test",
+    "server": "node server/index.js",
+    "inspect": "node scripts/inspect-data.js data/sample/properties.geojson",
+    "process-data": "node scripts/process-data.js"
+  },
+  "dependencies": {
+    "leaflet": "1.9.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-leaflet": "4.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11"
+  }
+}
